@@ -19,3 +19,5 @@ O app abre direto na Tela de Perfil que contém:
 - Grade com capas dos títulos da lista do usuário
 
 Arquitetura simples: componentes em `lib/widgets`, telas em `lib/screens`, dados em `lib/models`.
+
+Dupla: Maria Eduarda e Giovanna Oliveira
